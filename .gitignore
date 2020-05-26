@@ -27,3 +27,7 @@ project.xcworkspace
 node_modules/
 npm-debug.log
 *.iml
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
